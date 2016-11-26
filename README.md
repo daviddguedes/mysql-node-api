@@ -10,7 +10,7 @@
 * Executar no terminal 'git clone https://github.com/daviddguedes/mysql-node-api.git'
 * Substituir as configuraoes do MySql no arquivo app.js
 * Entrar na pasta do projeto clonado pelo terminal: 'cd path/to/repositorio-clonado'
-* Executar no terminal 'npm inatall'
+* Executar no terminal 'npm install'
 * Após a instalacão, executar, no terminal, 'npm start'
 * Abrir o navegador e digitar http://localhost:3000/api
 
